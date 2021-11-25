@@ -148,7 +148,7 @@ export default class Metadata {
     }
 
     Array.from(this.otherMeta.entries()).map((entry) => {
-      test.addParameter(entry[0], entry[1]);
+      test.addLabel(entry[0], entry[1]);
     });
   }
 

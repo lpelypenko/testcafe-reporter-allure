@@ -28,10 +28,6 @@ Array [
         "name": "suite",
         "value": "All Failed Fixture",
       },
-    ],
-    "links": Array [],
-    "name": "Failed Test 1 Incorrect Assert",
-    "parameters": Array [
       Object {
         "name": "type",
         "value": "smoke",
@@ -45,6 +41,9 @@ Array [
         "value": "team",
       },
     ],
+    "links": Array [],
+    "name": "Failed Test 1 Incorrect Assert",
+    "parameters": Array [],
     "stage": "finished",
     "status": "failed",
     "statusDetails": Object {
@@ -90,10 +89,6 @@ Array [
         "name": "suite",
         "value": "All Failed Fixture",
       },
-    ],
-    "links": Array [],
-    "name": "Failed Test 2",
-    "parameters": Array [
       Object {
         "name": "type",
         "value": "smoke",
@@ -107,6 +102,9 @@ Array [
         "value": "team",
       },
     ],
+    "links": Array [],
+    "name": "Failed Test 2",
+    "parameters": Array [],
     "stage": "finished",
     "status": "failed",
     "statusDetails": Object {
@@ -152,10 +150,6 @@ Array [
         "name": "suite",
         "value": "All Failed Fixture",
       },
-    ],
-    "links": Array [],
-    "name": "Failed Test 3 No ",
-    "parameters": Array [
       Object {
         "name": "type",
         "value": "smoke",
@@ -169,6 +163,9 @@ Array [
         "value": "team",
       },
     ],
+    "links": Array [],
+    "name": "Failed Test 3 No ",
+    "parameters": Array [],
     "stage": "finished",
     "status": "failed",
     "statusDetails": Object {
@@ -230,10 +227,6 @@ Array [
         "name": "story",
         "value": "big story",
       },
-    ],
-    "links": Array [],
-    "name": "Failed Test 4 Error Thrown",
-    "parameters": Array [
       Object {
         "name": "type",
         "value": "smoke",
@@ -247,6 +240,9 @@ Array [
         "value": "team",
       },
     ],
+    "links": Array [],
+    "name": "Failed Test 4 Error Thrown",
+    "parameters": Array [],
     "stage": "finished",
     "status": "failed",
     "statusDetails": Object {
@@ -300,10 +296,6 @@ Array [
         "name": "suite",
         "value": "All Failed Fixture",
       },
-    ],
-    "links": Array [],
-    "name": "Failed Test 4 Selector DNE with 2 screenshots",
-    "parameters": Array [
       Object {
         "name": "type",
         "value": "smoke",
@@ -317,6 +309,9 @@ Array [
         "value": "team",
       },
     ],
+    "links": Array [],
+    "name": "Failed Test 4 Selector DNE with 2 screenshots",
+    "parameters": Array [],
     "stage": "finished",
     "status": "failed",
     "statusDetails": Object {
@@ -362,10 +357,6 @@ Array [
         "name": "suite",
         "value": "All Failed Fixture",
       },
-    ],
-    "links": Array [],
-    "name": "Failed Test 5 Selector Click DNE",
-    "parameters": Array [
       Object {
         "name": "type",
         "value": "smoke",
@@ -379,6 +370,9 @@ Array [
         "value": "team",
       },
     ],
+    "links": Array [],
+    "name": "Failed Test 5 Selector Click DNE",
+    "parameters": Array [],
     "stage": "finished",
     "status": "failed",
     "statusDetails": Object {
@@ -419,10 +413,6 @@ Array [
         "name": "suite",
         "value": "All Skipped Fixture",
       },
-    ],
-    "links": Array [],
-    "name": "Skipped Test 0",
-    "parameters": Array [
       Object {
         "name": "type",
         "value": "smoke",
@@ -436,6 +426,9 @@ Array [
         "value": "team",
       },
     ],
+    "links": Array [],
+    "name": "Skipped Test 0",
+    "parameters": Array [],
     "stage": "finished",
     "status": "skipped",
     "statusDetails": Object {
@@ -476,10 +469,6 @@ Array [
         "name": "suite",
         "value": "All Skipped Fixture",
       },
-    ],
-    "links": Array [],
-    "name": "Skipped Test 1",
-    "parameters": Array [
       Object {
         "name": "type",
         "value": "smoke",
@@ -493,6 +482,9 @@ Array [
         "value": "team",
       },
     ],
+    "links": Array [],
+    "name": "Skipped Test 1",
+    "parameters": Array [],
     "stage": "finished",
     "status": "skipped",
     "statusDetails": Object {
@@ -538,10 +530,6 @@ Array [
         "name": "suite",
         "value": "Failing Assert Fixture",
       },
-    ],
-    "links": Array [],
-    "name": "FAF Test",
-    "parameters": Array [
       Object {
         "name": "type",
         "value": "smoke",
@@ -555,6 +543,9 @@ Array [
         "value": "team",
       },
     ],
+    "links": Array [],
+    "name": "FAF Test",
+    "parameters": Array [],
     "stage": "finished",
     "status": "failed",
     "statusDetails": Object {
@@ -600,10 +591,6 @@ Array [
         "name": "suite",
         "value": "Failing Fixture Setup",
       },
-    ],
-    "links": Array [],
-    "name": "FF Test",
-    "parameters": Array [
       Object {
         "name": "type",
         "value": "smoke",
@@ -617,6 +604,9 @@ Array [
         "value": "team",
       },
     ],
+    "links": Array [],
+    "name": "FF Test",
+    "parameters": Array [],
     "stage": "finished",
     "status": "failed",
     "statusDetails": Object {
@@ -662,10 +652,6 @@ Array [
         "name": "suite",
         "value": "Mixed Fixture",
       },
-    ],
-    "links": Array [],
-    "name": "MF Failed Test Selector DNE",
-    "parameters": Array [
       Object {
         "name": "type",
         "value": "smoke",
@@ -679,6 +665,9 @@ Array [
         "value": "team",
       },
     ],
+    "links": Array [],
+    "name": "MF Failed Test Selector DNE",
+    "parameters": Array [],
     "stage": "finished",
     "status": "failed",
     "statusDetails": Object {
@@ -719,10 +708,6 @@ Array [
         "name": "suite",
         "value": "Mixed Fixture",
       },
-    ],
-    "links": Array [],
-    "name": "MF Skipped Test",
-    "parameters": Array [
       Object {
         "name": "type",
         "value": "smoke",
@@ -736,6 +721,9 @@ Array [
         "value": "team",
       },
     ],
+    "links": Array [],
+    "name": "MF Skipped Test",
+    "parameters": Array [],
     "stage": "finished",
     "status": "skipped",
     "statusDetails": Object {
@@ -780,10 +768,6 @@ Array [
         "name": "story",
         "value": "I am a user story",
       },
-    ],
-    "links": Array [],
-    "name": "Pass/Fail Test With ALL META 0",
-    "parameters": Array [
       Object {
         "name": "type",
         "value": "smoke",
@@ -797,6 +781,9 @@ Array [
         "value": "team",
       },
     ],
+    "links": Array [],
+    "name": "Pass/Fail Test With ALL META 0",
+    "parameters": Array [],
     "stage": "finished",
     "status": "passed",
     "statusDetails": Object {
@@ -846,10 +833,6 @@ Array [
         "name": "story",
         "value": "I am a user story",
       },
-    ],
-    "links": Array [],
-    "name": "Pass/Fail Test With ALL META 1",
-    "parameters": Array [
       Object {
         "name": "type",
         "value": "smoke",
@@ -863,6 +846,9 @@ Array [
         "value": "team",
       },
     ],
+    "links": Array [],
+    "name": "Pass/Fail Test With ALL META 1",
+    "parameters": Array [],
     "stage": "finished",
     "status": "failed",
     "statusDetails": Object {
@@ -907,10 +893,6 @@ Array [
         "name": "subSuite",
         "value": "Skip Reason Example Group",
       },
-    ],
-    "links": Array [],
-    "name": "Example skipped test 1",
-    "parameters": Array [
       Object {
         "name": "skipReason",
         "value": "Not automated",
@@ -920,6 +902,9 @@ Array [
         "value": "team",
       },
     ],
+    "links": Array [],
+    "name": "Example skipped test 1",
+    "parameters": Array [],
     "stage": "finished",
     "status": "skipped",
     "statusDetails": Object {
@@ -964,10 +949,6 @@ Array [
         "name": "subSuite",
         "value": "Skip Reason Example Group",
       },
-    ],
-    "links": Array [],
-    "name": "Example skipped test 2",
-    "parameters": Array [
       Object {
         "name": "skipReason",
         "value": "Not automated",
@@ -977,6 +958,9 @@ Array [
         "value": "team",
       },
     ],
+    "links": Array [],
+    "name": "Example skipped test 2",
+    "parameters": Array [],
     "stage": "finished",
     "status": "skipped",
     "statusDetails": Object {
@@ -1021,10 +1005,6 @@ Array [
         "name": "subSuite",
         "value": "Skip Reason Example Group",
       },
-    ],
-    "links": Array [],
-    "name": "Example skipped test 3",
-    "parameters": Array [
       Object {
         "name": "skipReason",
         "value": "Not automated",
@@ -1034,6 +1014,9 @@ Array [
         "value": "team",
       },
     ],
+    "links": Array [],
+    "name": "Example skipped test 3",
+    "parameters": Array [],
     "stage": "finished",
     "status": "skipped",
     "statusDetails": Object {
@@ -1078,10 +1061,6 @@ Array [
         "name": "subSuite",
         "value": "Skip Reason Example Group",
       },
-    ],
-    "links": Array [],
-    "name": "Example skipped test with bug reason 1",
-    "parameters": Array [
       Object {
         "name": "skipReason",
         "value": "Known product bug BUG-1111",
@@ -1091,6 +1070,9 @@ Array [
         "value": "team",
       },
     ],
+    "links": Array [],
+    "name": "Example skipped test with bug reason 1",
+    "parameters": Array [],
     "stage": "finished",
     "status": "skipped",
     "statusDetails": Object {
@@ -1135,10 +1117,6 @@ Array [
         "name": "subSuite",
         "value": "Skip Reason Example Group",
       },
-    ],
-    "links": Array [],
-    "name": "Example skipped test with bug reason 2",
-    "parameters": Array [
       Object {
         "name": "skipReason",
         "value": "Known product bug BUG-2222",
@@ -1148,6 +1126,9 @@ Array [
         "value": "team",
       },
     ],
+    "links": Array [],
+    "name": "Example skipped test with bug reason 2",
+    "parameters": Array [],
     "stage": "finished",
     "status": "skipped",
     "statusDetails": Object {
@@ -1495,6 +1476,10 @@ Array [
         "name": "story",
         "value": "Example Story Ticket",
       },
+      Object {
+        "name": "otherMeta",
+        "value": "Example otherMeta parameter.",
+      },
     ],
     "links": Array [
       Object {
@@ -1504,12 +1489,7 @@ Array [
       },
     ],
     "name": "Example test with all metadata",
-    "parameters": Array [
-      Object {
-        "name": "otherMeta",
-        "value": "Example otherMeta parameter.",
-      },
-    ],
+    "parameters": Array [],
     "stage": "finished",
     "status": "passed",
     "statusDetails": Object {
@@ -1722,10 +1702,6 @@ Array [
         "name": "story",
         "value": "big story",
       },
-    ],
-    "links": Array [],
-    "name": "Passing Test 0",
-    "parameters": Array [
       Object {
         "name": "type",
         "value": "smoke",
@@ -1735,6 +1711,9 @@ Array [
         "value": "true",
       },
     ],
+    "links": Array [],
+    "name": "Passing Test 0",
+    "parameters": Array [],
     "stage": "finished",
     "status": "passed",
     "statusDetails": Object {
@@ -1795,10 +1774,6 @@ Array [
         "name": "story",
         "value": "big story",
       },
-    ],
-    "links": Array [],
-    "name": "Passing Test 1",
-    "parameters": Array [
       Object {
         "name": "type",
         "value": "smoke",
@@ -1808,6 +1783,9 @@ Array [
         "value": "true",
       },
     ],
+    "links": Array [],
+    "name": "Passing Test 1",
+    "parameters": Array [],
     "stage": "finished",
     "status": "passed",
     "statusDetails": Object {
@@ -1856,10 +1834,6 @@ Array [
         "name": "story",
         "value": "As user I want to be able to do...",
       },
-    ],
-    "links": Array [],
-    "name": "Passing Test With ALL META 0",
-    "parameters": Array [
       Object {
         "name": "type",
         "value": "smoke",
@@ -1869,6 +1843,9 @@ Array [
         "value": "true",
       },
     ],
+    "links": Array [],
+    "name": "Passing Test With ALL META 0",
+    "parameters": Array [],
     "stage": "finished",
     "status": "passed",
     "statusDetails": Object {
@@ -1917,10 +1894,6 @@ Array [
         "name": "story",
         "value": "As user I want to be able to do...",
       },
-    ],
-    "links": Array [],
-    "name": "Passing Test With ALL META 1",
-    "parameters": Array [
       Object {
         "name": "type",
         "value": "smoke",
@@ -1930,6 +1903,9 @@ Array [
         "value": "true",
       },
     ],
+    "links": Array [],
+    "name": "Passing Test With ALL META 1",
+    "parameters": Array [],
     "stage": "finished",
     "status": "passed",
     "statusDetails": Object {
@@ -1983,10 +1959,6 @@ Array [
         "name": "suite",
         "value": "TestCafé Example Fixture - Meta Overrides",
       },
-    ],
-    "links": Array [],
-    "name": "Passing Test with 2 screenshots",
-    "parameters": Array [
       Object {
         "name": "type",
         "value": "smoke",
@@ -1996,6 +1968,9 @@ Array [
         "value": "true",
       },
     ],
+    "links": Array [],
+    "name": "Passing Test with 2 screenshots",
+    "parameters": Array [],
     "stage": "finished",
     "status": "passed",
     "statusDetails": Object {

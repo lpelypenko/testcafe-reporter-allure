@@ -203,8 +203,7 @@ describe('Metadata merging', () => {
     expect(localMetaData.suite).toBe('Local Suite');
     expect(localMetaData.parent_suite).toBe(groupMeta.suite);
 
-    expect(mockAddParameter).toHaveBeenCalledTimes(1);
-    expect(mockAddLabel).toHaveBeenCalledTimes(9);
+    expect(mockAddLabel).toHaveBeenCalledTimes(10);
     expect(mockAddLink).toHaveBeenCalledTimes(1);
   });
   it('Should use group metadata if local is missing them', () => {
@@ -238,8 +237,7 @@ describe('Metadata merging', () => {
     expect(localMetaData.suite).toBe('Group Suite');
     expect(localMetaData.parent_suite).toBe(groupMeta.suite);
 
-    expect(mockAddParameter).toHaveBeenCalledTimes(1);
-    expect(mockAddLabel).toHaveBeenCalledTimes(8); // One less than above test because sub_suite is not defined
+    expect(mockAddLabel).toHaveBeenCalledTimes(9); // One less than above test because sub_suite is not defined
     expect(mockAddLink).toHaveBeenCalledTimes(1);
   });
   it('Should only add metadata if it is defined', () => {
